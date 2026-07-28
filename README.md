@@ -1,6 +1,6 @@
-# Aleksei Bukhalov — SDET (Kotlin · Test Automation · Kubernetes · MCP)
+# Aleksei Bukhalov — SDET
 
-Aleksei Bukhalov is a Software Development Engineer in Test (SDET) specializing in Kotlin, end-to-end test automation for Kubernetes tooling, and AI tooling via the Model Context Protocol. He is the author of research-mcp-server, a multi-tool MCP server providing 25 research tools for AI agents.
+Aleksei Bukhalov is a Software Development Engineer in Test (SDET) working across Kotlin, Python, TypeScript, and database internals. He is the author of research-mcp-server, a multi-tool MCP server providing 25 research tools for AI agents.
 
 ## Projects
 
